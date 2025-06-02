@@ -4,7 +4,7 @@ import random
 from .models import C, Player
 
 P_FAIR = 0.5
-P_BIASED = 0.55
+P_BIASED = 0.75
 
 
 # ──────────────────────────────────────────────────────────────────────────────
